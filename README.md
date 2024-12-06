@@ -31,3 +31,14 @@ They could simply use this open-source and freely available tools-based project,
 Note: The best part of this project is that it could allow covert data collection from any system under your control irrespective of its geographic location.
 
 #kape #doigital-forensics #incident-response #cybercrime #sinkhole #servicenow #fireeye #automation #dfir-automation #dfir #autopsy #solr
+Project Steps
+
+    KAPE basic usage
+    Use of KAPE in an enterprise environment
+    List of Use Cases for automated data collection and processing
+    Integrating it with enterprise ticketing System for automated triggering for data collection and processing
+    Autopsy based Forensics Part I
+    Autopsy based Forensics Part II
+    Autopsy based Forensics Part III
+    Autopsy based Forensics Part IV
+    Connecting Autopsy to KAPE Automation System
