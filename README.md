@@ -5,14 +5,18 @@ Welcome to the KAPE-And-Autopsy-Enterprise-Automation project — a practical, o
 **🧠 Project Overview**
 
 This project provides a blueprint for automating forensic evidence collection, processing, and analysis across an enterprise, using freely available tools like KAPE. The system is designed to:
+
 ✅ Automate real-time data collection and processing using KAPE and open-source scripts.
+
 ✅ Integrate with existing enterprise systems, such as:
 	SIEMs
 	Threat Intelligence Platforms
 	Ticketing Systems (e.g., ServiceNow)
 	Threat Detection & Response Tools
 	Sinkholes and other telemetry collectors
+
 ✅ Enable full disk forensic analysis using Autopsy, powered by Solr, in an automated, scalable manner.
+
 ✅ Support organizations without access to expensive commercial DFIR solutions.
 
 Originally developed and completed in mid-2020, this project remains a powerful and practical solution for organizations seeking a modular, automated DFIR workflow.
@@ -20,9 +24,13 @@ Originally developed and completed in mid-2020, this project remains a powerful 
 **🌟 Key Features**
 
 🔄 Real-time evidence collection, processing, and analysis
+
 🔌 Seamless integration with existing enterprise DFIR setups
+
 💰 Cost-effective alternative to enterprise DFIR products
+
 🧰 Full disk forensic capabilities using open-source tools (e.g., KAPE, Autopsy)
+
 📈 Automation-ready architecture, designed for scale and speed
 
 **🧩 Project Components**
