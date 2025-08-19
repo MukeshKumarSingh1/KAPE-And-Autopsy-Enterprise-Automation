@@ -9,11 +9,16 @@ This project provides a blueprint for automating forensic evidence collection, p
 ✅ Automate real-time data collection and processing using KAPE and open-source scripts.
 
 ✅ Integrate with existing enterprise systems, such as:
+
 	SIEMs
-	Threat Intelligence Platforms
-	Ticketing Systems (e.g., ServiceNow)
-	Threat Detection & Response Tools
-	Sinkholes and other telemetry collectors
+
+ 	Threat Intelligence Platforms
+	
+ 	Ticketing Systems (e.g., ServiceNow)
+	
+ 	Threat Detection & Response Tools
+	
+ 	Sinkholes and other telemetry collectors
 
 ✅ Enable full disk forensic analysis using Autopsy, powered by Solr, in an automated, scalable manner.
 
